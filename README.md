@@ -14,7 +14,7 @@ A virtual box script containing Tensorflow-CPU, python27, numpy and other machin
 3. Go and grabe a coffee, wait for a while.
 4. Type ```$ vagrant halt ```
  and ```$ vagrant up ``` again.
- 
+5. source activate tensorflow to activate virtual environment.
 
 ## Useful vagrant command:
 
